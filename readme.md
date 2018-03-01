@@ -1,4 +1,4 @@
-# 滚动到浏览器的指定位置
+# 获取元素的left和top
 ```
 const offset = require('zhf.offset');
 console.log('left', offset('body').left); // 获取body的left
