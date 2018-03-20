@@ -1,6 +1,6 @@
 {
     "name": "zhf.offset",
-    "version": "1.0.2",
+    "version": "1.0.4",
     "description": "no description",
     "main": "dist/index.min.js",
     "scripts": {
@@ -36,6 +36,6 @@
         "jest": "^22.1.1"
     },
     "dependencies": {
-        "zhf.get-dom-array": "^1.0.3"
+        "zhf.get-dom-array": "^1.0.4"
     }
 }
